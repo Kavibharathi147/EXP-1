@@ -38,50 +38,37 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
-
-<img width="841" height="697" alt="Screenshot 2026-10-23 203230" src="https://github.com/user-attachments/assets/b97953cd-c392-4241-96c4-30eec217058a" />
-
+<img width="377" height="377" alt="Screenshot 2026-10-25 151447" src="https://github.com/user-attachments/assets/f9f7e80f-3311-45fe-bbe2-66518cbf14e6" />
 
 
+
+ 
 
 b.  KCL:
-
-<img width="1151" height="635" alt="Screenshot 2026-10-23 203826" src="https://github.com/user-attachments/assets/3c686b81-2755-460f-bad6-738dc13750e9" />
-
+ <img width="427" height="486" alt="Screenshot 2026-10-25 151501" src="https://github.com/user-attachments/assets/2c36d193-ef97-4340-838c-db5e5632bcf5" />
 
 
-Calculation:
+
+calculation:
 
 a.   KVL:
- <img width="1700" height="2028" alt="Adobe Scan Oct 25, 2026_1" src="https://github.com/user-attachments/assets/e4f86c52-ce75-43fd-9689-688a90b2caed" />
-<img width="1700" height="1409" alt="Adobe Scan Oct 25, 2026_5" src="https://github.com/user-attachments/assets/5e02575e-e1a2-4287-9a11-9eef36ff8ebe" />
+<img width="513" height="387" alt="Screenshot 2026-10-25 151544" src="https://github.com/user-attachments/assets/fe8c5c76-4c3c-44a3-b5a6-8839608eb7b1" />
+<img width="310" height="193" alt="Screenshot 2026-10-25 151517" src="https://github.com/user-attachments/assets/9ec5acae-6c11-4506-a8b5-6e70fab8c294" />
 
 
 b.  KCL:
- <img width="1700" height="1512" alt="Adobe Scan Oct 25, 2026_2" src="https://github.com/user-attachments/assets/5cc259f2-3b0c-4d41-b1f3-4fcfca920a6b" />
-<img width="1700" height="940" alt="Adobe Scan Oct 25, 2026_6" src="https://github.com/user-attachments/assets/0fbbe42c-2e69-4722-966c-fbdb015741e3" />
-
-
-
-
-Tabulation:
-
-a.   KVL:
- <img width="1700" height="2028" alt="Adobe Scan Oct 25, 2026_1" src="https://github.com/user-attachments/assets/b9a84c0e-830b-44f3-9457-6f4a10037213" />
-
-
-
-b.  KCL:
-<img width="1700" height="1512" alt="Adobe Scan Oct 25, 2026_2" src="https://github.com/user-attachments/assets/ccd180d0-9482-4302-aba8-986ce25f2eed" />
-
+<img width="513" height="387" alt="Screenshot 2026-10-25 151544" src="https://github.com/user-attachments/assets/9b691c66-8c99-41c6-b797-96164674de65" />
 
 
 RESULT:
+kVL
+<img width="935" height="682" alt="Screenshot 2026-10-23 203143" src="https://github.com/user-attachments/assets/62009bac-338b-4991-a319-8203d8b3ded3" />
+KCL
+<img width="1159" height="764" alt="Screenshot 2026-10-23 203720" src="https://github.com/user-attachments/assets/fec2da3b-e9e4-4857-bb11-fd68fdc9c850" />
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
