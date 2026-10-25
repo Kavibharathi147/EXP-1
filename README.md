@@ -52,6 +52,11 @@ a.   KVL:
 b.  KCL:
  <img width="427" height="486" alt="Screenshot 2026-10-25 151501" src="https://github.com/user-attachments/assets/2c36d193-ef97-4340-838c-db5e5632bcf5" />
 
+Tabulation:
+KVL
+<img width="227" height="426" alt="Screenshot 2026-10-25 151602" src="https://github.com/user-attachments/assets/5836bd8f-5110-41be-9525-0e6f2df09880" />
+KCL
+<img width="467" height="213" alt="Screenshot 2026-10-25 151616" src="https://github.com/user-attachments/assets/e2755bc0-ddaa-434f-8100-edde3254ceba" />
 
 
 calculation:
