@@ -44,19 +44,28 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+
+<img width="841" height="697" alt="Screenshot 2026-10-23 203230" src="https://github.com/user-attachments/assets/b97953cd-c392-4241-96c4-30eec217058a" />
+
+
 
 
 b.  KCL:
- 
+
+<img width="1151" height="635" alt="Screenshot 2026-10-23 203826" src="https://github.com/user-attachments/assets/3c686b81-2755-460f-bad6-738dc13750e9" />
+
+
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="1700" height="2028" alt="Adobe Scan Oct 25, 2026_1" src="https://github.com/user-attachments/assets/e4f86c52-ce75-43fd-9689-688a90b2caed" />
+<img width="1700" height="1409" alt="Adobe Scan Oct 25, 2026_5" src="https://github.com/user-attachments/assets/5e02575e-e1a2-4287-9a11-9eef36ff8ebe" />
 
 
 b.  KCL:
+ <img width="1700" height="1512" alt="Adobe Scan Oct 25, 2026_2" src="https://github.com/user-attachments/assets/5cc259f2-3b0c-4d41-b1f3-4fcfca920a6b" />
+<img width="1700" height="940" alt="Adobe Scan Oct 25, 2026_6" src="https://github.com/user-attachments/assets/0fbbe42c-2e69-4722-966c-fbdb015741e3" />
 
 
 
@@ -64,10 +73,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1700" height="2028" alt="Adobe Scan Oct 25, 2026_1" src="https://github.com/user-attachments/assets/b9a84c0e-830b-44f3-9457-6f4a10037213" />
+
 
 
 b.  KCL:
+<img width="1700" height="1512" alt="Adobe Scan Oct 25, 2026_2" src="https://github.com/user-attachments/assets/ccd180d0-9482-4302-aba8-986ce25f2eed" />
 
 
 
