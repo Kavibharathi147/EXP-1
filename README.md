@@ -38,25 +38,34 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:<img width="841" height="697" alt="Screenshot 2026-10-23 203230" src="https://github.com/user-attachments/assets/008bb190-1f6b-4821-8851-47e9830484d6" />
+
 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="841" height="697" alt="Screenshot 2026-10-23 203230" src="https://github.com/user-attachments/assets/27e2f7bc-972c-42df-b441-8c228e2a1ea0" />
+
 
 
 b.  KCL:
- 
+<img width="1151" height="635" alt="Screenshot 2026-10-23 203826" src="https://github.com/user-attachments/assets/d4e4e48f-9b6f-43d4-b87b-9210c75c4a6d" />
 
+
+
+
+ 
 Calculation:
 
 a.   KVL:
- 
+<img width="935" height="682" alt="Screenshot 2026-10-23 203143" src="https://github.com/user-attachments/assets/63b55188-6720-4e97-93bd-f16a989fb8c6" />
+
+
 
 
 b.  KCL:
+<img width="1159" height="764" alt="Screenshot 2026-10-23 203720" src="https://github.com/user-attachments/assets/bf409fbd-57b2-4e57-a863-6bbbfd79d0f5" />
 
 
 
@@ -64,10 +73,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+<img width="1057" height="233" alt="Screenshot 2026-10-25 132036" src="https://github.com/user-attachments/assets/63492ff9-9784-4548-ad3c-41a85a2bf413" />
  
 
 
 b.  KCL:
+<img width="1113" height="230" alt="Screenshot 2026-10-25 132018" src="https://github.com/user-attachments/assets/a9cb7e9c-750c-44bb-9816-bdf1f59960aa" />
 
 
 
